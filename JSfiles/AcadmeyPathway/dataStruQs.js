@@ -1,4 +1,4 @@
-//Question 1
+//Question 1 of stack 
 function revStack(seq){
     let rev = seq.split(" ");
     let length = rev.length;
